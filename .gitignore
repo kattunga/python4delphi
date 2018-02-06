@@ -1,7 +1,8 @@
 bin27
 bin36
-*.dcu
 __history
+*.dcu
+*.identcache
 *.exe
 *.local
 *.stat
