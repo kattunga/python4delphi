@@ -1,0 +1,8 @@
+bin27
+bin36
+*.dcu
+__history
+*.exe
+*.local
+*.stat
+*.zip
